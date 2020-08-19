@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ## 💚 Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fangjinuo&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![fangjinuo's github stats](https://github-readme-stats.vercel.app/api?username=fangjinuo&count_private=true&show_icons=true&theme=onedark)](https://github.com/fangjinuo)
 
