@@ -1,4 +1,5 @@
-### Hi there 👋
+## 欢迎访问
+![访问统计]( https://visitor-badge.glitch.me/badge?page_id=fangjinuo
 
 <!--
 **fangjinuo/fangjinuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
